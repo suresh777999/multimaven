@@ -28,11 +28,11 @@
     <module>webapp2</module>
   </modules>
   
-   <distributionManagement>
+  <distributionManagement>
   <snapshotRepository>
     <id>reposure</id>
-    <url>http://ec2-18-216-136-124.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/reposure</url>
+    <url>http://ec2-52-14-153-90.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/reposure</url>
   </snapshotRepository>
-</distributionManagement>
+  </distributionManagement>
   
 </project>
